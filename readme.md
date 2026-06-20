@@ -39,6 +39,9 @@ Once the software is configured, lower the remaining 3D printed piece into the h
 
 Plug in your peripherals using the USB ports on the other side, and you're good to go!
 
+Completed build:
+![completed](images/completed.png)
+
 ## Software
 
 Note: the code for this has not been fully tested on the hardware, so unexpected behaviour is possible, but this does not affect the USB hub functionality, only the smart display.
